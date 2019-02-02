@@ -1,2 +1,3 @@
-# Aul-o_de_flask
-Código do aulão de flask
+# Aulão de flask
+
+Códigos do aulão de flask no youtube
